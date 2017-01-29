@@ -1,0 +1,22 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "lab1 simple express website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies":{
+    "express":"latest"
+  },
+  "keywords": [
+    "ExpressJS",
+    "NodeJS",
+    "Bootstrap",
+    "JavaScript"
+  ],
+  "author": "Ali Saim",
+  "license": "ISC"
+}
